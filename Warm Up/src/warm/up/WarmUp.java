@@ -82,6 +82,8 @@ public class WarmUp {
         System.out.println(test8.intMax(1, 2, 3));
         System.out.println(test8.intMax(1, 3, 2));
         System.out.println(test8.intMax(3, 2, 1));
+        
+        
     }
 
 }
